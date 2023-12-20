@@ -1,0 +1,27 @@
+
+
+.header{
+    background-color: dodgerblue;
+    height: 50px;
+    border: 3px solid black;
+}
+
+.content{
+    background-color: PURPLE;
+    height: 500px;
+    border: 3px solid black;
+}
+
+.main-content{
+    background-color: rgb(114, 21, 21);
+    height: 500px;
+    border: 3px solid black;
+    
+
+}
+
+.footer{
+    background-color: red;
+    height: 50px;
+    border: 3px solid black;
+}

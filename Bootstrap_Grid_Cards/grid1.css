@@ -1,0 +1,10 @@
+
+.content{
+    background-color: green;
+    min-height: 500px;
+}
+
+.main-content {
+    background-color: yellow;
+    min-height: 500px;
+}
